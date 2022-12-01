@@ -88,8 +88,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ✓ AnggaXyzz
 
 ```
-| SUPPORT ME |
-|------------|
+| SUPPORT ME | LINK |
+|------------|------|
 | **SAWERIA** |[here](https://saweria.co/AnggaXyzz) |
 
 ## Stats
