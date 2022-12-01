@@ -34,20 +34,20 @@ Project created by <a href="https://github.com/AnggaXyzZ">AnggaXyzz</a> to make 
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ---------
-## `Requirements`
+## Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
-## `Clone Repo & Installation dependencies`
+## Clone Repo & Installation dependencies
 ```bash
 git clone https://github.com/AnggaXyzZ/AXBOTZ-MD
 cd AXBOTZ-MD
 
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+## For Termux/Ssh/Ubuntu
 ```bash
 apt update
 apt upgrade
@@ -63,7 +63,7 @@ git clone https://github.com/AnggaXyzZ/AXBOTZ-MD
 cd AXBOTZ-MD
 npm start
 ```
-## `For VPS`
+## For VPS
 ```bash
 apt install nodejs 
 apt install git 
@@ -75,7 +75,7 @@ git clone https://github.com/AnggaXyzZ/AXBOTZ-MD
 cd AXBOTZ-MD
 npm start
 ```
-## `For 24/7 Activation (Termux)`
+## For 24/7 Activation (Termux)
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
@@ -88,6 +88,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ✓ AnggaXyzz
 
 ```
+| SUPPORT ME |
+|------------|
+| **SAWERIA** |[here](https://saweria.co/AnggaXyzz) |
 
 ## Stats
 
