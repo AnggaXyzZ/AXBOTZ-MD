@@ -9,7 +9,7 @@
 <img src="https://telegra.ph/file/c8344d6e7deb145cbda20.jpg" alt="Img" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="AnggaXyzz" src="https://img.shields.io/badge/ANGGA%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AnggaXyzz" src="https://img.shields.io/badge/AnggaXyzz-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://wa.me/6281997496643"><img title="Author" src="https://img.shields.io/badge/Author-AnggaXyzz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
